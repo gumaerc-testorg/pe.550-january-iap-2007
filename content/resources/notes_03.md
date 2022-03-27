@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 3bd30e45-7846-51ab-7aff-12e57cac66a0
 resourcetype: Document
 title: 'Lecture/Discussion 3: Acting on Your Plan and What''s Next'
 uid: 1c153072-64ff-7d25-b8ce-1fff2eca7047
