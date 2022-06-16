@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: A design of "Designing Your Life." (Image by MIT OpenCourseWare.)
-file: /media/courses/pe-550-designing-your-life-january-iap-2007/291b9af9511a85dab6711c9ad7d65dd1_pe-550iap07-th.jpg
+file: /courses/pe-550-designing-your-life-january-iap-2007/291b9af9511a85dab6711c9ad7d65dd1_pe-550iap07-th.jpg
 file_type: image/jpeg
 image_metadata:
   caption: A design of "Designing Your Life." (Image by MIT OpenCourseWare.)
@@ -14,3 +14,5 @@ resourcetype: Image
 title: Designing Your Life
 uid: 291b9af9-511a-85da-b671-1c9ad7d65dd1
 ---
+A design of "Designing Your Life." (Image by MIT OpenCourseWare.)
+

@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section provides the course assignments.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -33,7 +34,7 @@ ASSIGNMENTS
 Rating 18 areas of life and explaining your ratings
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/assign01))
+({{% resource_link 3910b059-c7b2-946e-62a9-bfd8ebe33f24 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -51,7 +52,7 @@ Telling the truth about yourself
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/assign02))
+({{% resource_link f758ccc3-4256-867f-ba9d-bf62ffceba37 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -69,7 +70,7 @@ Developing action plans about the 18 areas of life
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/assign03))
+({{% resource_link 8e366a7d-d9bf-5c16-ac00-83a4e74ed578 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}

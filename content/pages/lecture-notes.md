@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides the lecture notes from the course along with the
+  schedule of lecture topics.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -49,7 +51,7 @@ Impact of your past on your current life
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/notes_01))
+({{% resource_link fd24dd79-5ce8-b7c8-b547-8693f1cd7fd6 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -67,7 +69,7 @@ Personal integrity
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/notes_02))
+({{% resource_link 9895ed4c-3581-0ccf-7308-63747afcde3d "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -89,7 +91,7 @@ Go for what you truly want
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/notes_03))
+({{% resource_link 1c153072-64ff-7d25-b8ce-1fff2eca7047 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}

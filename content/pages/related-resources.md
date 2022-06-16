@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides additional resources such as a list of books and
+  links to websites and videos.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Related Resources
