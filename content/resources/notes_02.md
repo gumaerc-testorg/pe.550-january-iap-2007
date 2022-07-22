@@ -5,6 +5,7 @@ file: /courses/pe-550-designing-your-life-january-iap-2007/9895ed4c35810ccf73086
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 'Lecture/Discussion 2: How Your History Relates to Your Issues and Excuse
 uid: 9895ed4c-3581-0ccf-7308-63747afcde3d
 ---
 Lecture notes on laws and personal integrity.
-

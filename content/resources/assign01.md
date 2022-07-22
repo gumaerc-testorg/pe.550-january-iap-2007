@@ -5,6 +5,7 @@ file: /courses/pe-550-designing-your-life-january-iap-2007/3910b059c7b2946e62a9b
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Assignment 1
 uid: 3910b059-c7b2-946e-62a9-bfd8ebe33f24
 ---
 Assignment to rate 18 areas of life and explaining your ratings.
-

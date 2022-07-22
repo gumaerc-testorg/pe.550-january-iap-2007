@@ -6,6 +6,7 @@ file: /courses/pe-550-designing-your-life-january-iap-2007/f758ccc34256867fba9db
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Assignment 2
 uid: f758ccc3-4256-867f-ba9d-bf62ffceba37
 ---
 Assignment on finding the lies you tell yourself and telling the truth about yourself.
-
