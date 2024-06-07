@@ -3,6 +3,7 @@ content_type: resource
 description: Assignment on confessing information about yourself and developing action
   plans about the areas of life.
 file: /courses/pe-550-designing-your-life-january-iap-2007/8e366a7dd9bf5c16ac0083a4e74ed578_assign03.pdf
+file_size: 129735
 file_type: application/pdf
 learning_resource_types:
 - Assignments
