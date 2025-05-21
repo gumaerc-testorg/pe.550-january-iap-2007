@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture notes on why tell the truth, grace and wisdom, making peace with
   your flaws and where you are a jerk, and going for what you truly want.
-file: /ol-ocw-studio-app/courses/pe-550-designing-your-life-january-iap-2007/1c15307264ff7d25b8ce1fff2eca7047_notes_03.pdf
+file: /courses/pe-550-designing-your-life-january-iap-2007/1c15307264ff7d25b8ce1fff2eca7047_notes_03.pdf
 file_size: 205124
 file_type: application/pdf
 learning_resource_types:
