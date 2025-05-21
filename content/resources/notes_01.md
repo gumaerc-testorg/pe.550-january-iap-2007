@@ -3,7 +3,7 @@ content_type: resource
 description: Lecture notes on designing your life, elements of living an extraordinary
   life, uncovering your theories of life, access to change, principles of communication,
   change through telling the truth, and the impact of your past on your current life.
-file: /ol-ocw-studio-app/courses/pe-550-designing-your-life-january-iap-2007/fd24dd795ce8b7c8b5478693f1cd7fd6_notes_01.pdf
+file: /courses/pe-550-designing-your-life-january-iap-2007/fd24dd795ce8b7c8b5478693f1cd7fd6_notes_01.pdf
 file_size: 247411
 file_type: application/pdf
 learning_resource_types:
