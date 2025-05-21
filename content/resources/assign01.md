@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Assignment to rate 18 areas of life and explaining your ratings.
-file: /ol-ocw-studio-app/courses/pe-550-designing-your-life-january-iap-2007/3910b059c7b2946e62a9bfd8ebe33f24_assign01.pdf
+file: /courses/pe-550-designing-your-life-january-iap-2007/3910b059c7b2946e62a9bfd8ebe33f24_assign01.pdf
 file_size: 173386
 file_type: application/pdf
 learning_resource_types:
