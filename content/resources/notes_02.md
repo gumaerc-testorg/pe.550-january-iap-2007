@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture notes on laws and personal integrity.
-file: /courses/pe-550-designing-your-life-january-iap-2007/9895ed4c35810ccf730863747afcde3d_notes_02.pdf
+file: /ol-ocw-studio-app/courses/pe-550-designing-your-life-january-iap-2007/9895ed4c35810ccf730863747afcde3d_notes_02.pdf
 file_size: 68299
 file_type: application/pdf
 learning_resource_types:
