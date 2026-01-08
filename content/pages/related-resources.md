@@ -20,9 +20,9 @@ Rand, Ayn. _The Fountainhead_. New York, NY: Plume, 2005. ISBN: 9780452286757.
 Websites
 --------
 
-{{% resource_link "1232f2fa-5ae4-4226-8aac-43bc5e192851" "Handel Group" %}}
+[Handel Group](http://www.handelgroup.com/)
 
 Videos
 ------
 
-{{% resource_link "cc760c47-aa65-4577-9923-09ac08fa1ff6" "Living an Extraordinary Life" %}}
+[Living an Extraordinary Life](http://techtv.mit.edu/videos/311-span-classhighlightlivingspan-span-classhig)
